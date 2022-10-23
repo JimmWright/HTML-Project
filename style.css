@@ -1,6 +1,7 @@
 body{
     background-color: bisque;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
 }
 h1{
    color :#8CCA58;
